@@ -1,15 +1,21 @@
-TriagemCovid 🦠💻
+Triagem Covid 🦠💻
 
 Descrição
 
-TriagemCovid é um sistema simples em C para triagem de pacientes baseado em um questionário de sintomas relacionados à COVID-19. O programa coleta informações básicas (CPF, nome, idade, sexo) e realiza perguntas sobre sintomas e exposições recentes para calcular uma pontuação de risco.
+Triagem Covid é um sistema simples em C para triagem de pacientes baseado em um questionário de sintomas relacionados à COVID-19. O programa coleta informações básicas (CPF, nome, idade, sexo) e realiza perguntas sobre sintomas e exposições recentes para calcular uma pontuação de risco.
+
+
 
 Funcionalidades 🚀
 
 •Entrada de dados do paciente: CPF, nome, idade e sexo
+
 •Questionário com 10 perguntas sobre sintomas e exposição
+
 •Cálculo da pontuação de risco baseada nas respostas
+
 •Classificação do risco em Baixo, Médio ou Alto
+
 •Geração de relatório salvo em arquivo com o nome do paciente
 
 
