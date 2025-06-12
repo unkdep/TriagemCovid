@@ -32,6 +32,7 @@ Siga as instruções no console para preencher os dados e responder ao question�
 Requisitos 📋
 
 •Compilador C (ex: GCC)
+
 •Sistema operacional: Windows, Linux ou macOS
 
 
