@@ -42,4 +42,4 @@ Este projeto é open source e pode ser usado livremente.
 
 ---
 
-**Criado por unkdep** ✨
+**Criado por unkdep** 
